@@ -1,5 +1,5 @@
 <!--Banner-->
-![AlejandroCampsRodriguez Banner Image]([https://github.com/AlejandroCampsRodriguez/AlejandroCampsRdriguez/blob/git/banner.png))
+![AlejandroCampsRodriguez Banner Image](https://raw.githubusercontent.com/AlejandroCampsRodriguez/AlejandroCampsRdriguez/git/banner.png)
 
 <!--Night Owl image-->
 <div>
