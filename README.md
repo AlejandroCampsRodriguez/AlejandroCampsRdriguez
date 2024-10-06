@@ -1,4 +1,4 @@
-<!--Banner-->
+i'm<!--Banner-->
 ![AlejandroCampsRodriguez Banner Image](https://raw.githubusercontent.com/AlejandroCampsRodriguez/AlejandroCampsRdriguez/git/banner.png)
 
 <!--Night Owl image-->
@@ -113,12 +113,12 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+ <a href="  https://www.linkedin.com/in/alejandro-camps-a26a32145?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  " target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+<a href="mailto:alexcrw42@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=alexcrw42@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/kiran_a_n" target="_blank">
